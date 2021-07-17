@@ -1,0 +1,30 @@
+* {
+	padding: 0;	
+	margin: 0;
+}
+
+/*---------------
+ *
+ * GAME STYLES
+ *
+ *--------------*/
+.game {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align:center;
+	padding: 7rem;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+button {
+	padding: 20px;
+	font-size: 25px;
+	width: 100px;
+	border: 0.2px solid #000;
+}
+
+.status {
+	font-size: 30px;
+}
